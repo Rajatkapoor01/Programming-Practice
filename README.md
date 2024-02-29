@@ -1,5 +1,3 @@
-# Programming-Practice
-
 
 <h1 align="center">Programing Best Practices In 2024</h1>
 <div align="center">
