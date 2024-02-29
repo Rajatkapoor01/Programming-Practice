@@ -64,11 +64,6 @@ With the list bellow, I hope I can help developers improve their skills and rise
 - **[AWS Best Practices](https://roadmap.sh/best-practices/aws)**
 - **[System Design 101](https://github.com/ByteByteGoHq/system-design-101#system-design-101) - @ByteByteGoHq** 
 - **[AI & Data Science Best Practices](#ai--data-science-best-practices)**
-
-## Start Here
-
-Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please feel free to submit a PR!
-
 ---
 
 ## HTML Best Practices
